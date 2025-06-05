@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    
+}
+
+header{
+    background-color: green;
+    color: yellow;
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+
+}
+
+.titulo{
+    align-content: center;
+}
+
+h1{
+    display: inline;
+}
+
+.contenedor ul li{
+    color: white;
+    list-style: none;
+    display: inline;
+    text-align: left;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Texto{
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.Texto center p{
+    padding: 0px 20%;
+
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+}
+
+.imagen img{
+    width: 200px;
+    border-radius: 10px;
+    padding: 0px;
+    margin: 15px;
+    border: 3px solid green;
+
+}
+
+p{
+    text-align: center;
+}
+
